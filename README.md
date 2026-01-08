@@ -25,11 +25,14 @@ As of right now evreything that you would expect works,
 | Power Management  |   ✅    |
 | Dgpu Disable      |   ✅    |
 | USB Map           |   ✅    |
-| Handoff           |   ✅    |
-| Sidecar           |   ✅    |
+| Handoff           |   ✅  * |
+| Sidecar           |   ✅  * |
 | HDMI              |   ✅    |
 | Airdrop           |   🔴    |
 
+
+* - working with airportitlwm. the current build ships with itlwm as airportitlwm needs an extra workaround
+    
 <details>
   <summary>Config</summary>
   
