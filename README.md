@@ -1,8 +1,8 @@
 # MACOS TAHOE ONLY
 # Mi-Notebook-14-Horizon-Edition-Hackintosh
 
-## by superaviation001 and aarav yadav
-## tested by aarav yadav
+## by superaviation001 and aarav yadav (@AaravYadav57)
+## tested by aarav yadav (@AaravYadav57)
 
 ![Laptop Image](https://github.com/PhantomZNeuroX/Mi-Notebook-14-Horizon-Edition-Hackintosh/blob/main/Assets/MI%20notebook%20Monterey.png?style=centerme)
 
