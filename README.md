@@ -1,2 +1,39 @@
-# Mi-Notebook-Horizon-Edition-14-Hackintosh-i5-10th-gen-
-just a simple efi. you need one extra step to fix audio though (https://dortania.github.io/OpenCore-Install-Guide/extras/tahoe.html#table-of-contents)
+# MACOS TAHOE ONLY
+# Mi-Notebook-14-Horizon-Edition-Hackintosh
+
+![Laptop Image](https://github.com/PhantomZNeuroX/Mi-Notebook-14-Horizon-Edition-Hackintosh/blob/main/Assets/MI%20notebook%20Monterey.png?style=centerme)
+
+This repositery is a Documentation / Guide on how to install macOS on the Mi Notebook 14 Horizon Edition. The below Guide I prepared a simple way on how you can get started with a hackintosh on your Mi Notebook 14 Horizon edition, This guide not only talks about the basic installation steps but also talks about the problems that you are to encounter during the installation process.
+
+# So, Lets Begin!
+
+First lets talk about what works and what dosent
+As of right now evreything that you would expect works,
+
+|   Features     | Status |
+| ----------------- | :----:  | 
+| Touchpad Gestures |   ✅    |
+| Keyboard          |   ✅    |
+| Audio             |   🟢    |
+| Microphone        |   🟨    |
+| Wifi              |   ✅    |
+| Bluetooth         |   ✅    |
+| Sleep             |   🟢    |
+| Power Management  |   ✅    |
+| Dgpu Disable      |   ✅    |
+| USB Map           |   ✅    |
+| Handoff           |   ✅    |
+| Sidecar           |   ✅    |
+| HDMI              |   ✅    |
+| Airdrop           |   🔴    |
+
+<details>
+  <summary>Config</summary>
+  
+</details>
+
+# Post-install step to fix audio.
+https://dortania.github.io/OpenCore-Install-Guide/extras/tahoe.html#table-of-contents
+
+# Installation
+Refer to dortania's opencore guide to install.
